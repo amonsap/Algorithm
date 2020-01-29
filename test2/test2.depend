@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557590811 source:c:\subjects_2562_2\algorithm\test2\main.cpp
+	<iostream>
+	<algorithm>
+	<bits/stdc++.h>
+	<limits.h>
+

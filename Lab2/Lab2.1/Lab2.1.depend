@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554102545 source:c:\subjects_2562_2\algorithm\lab2\lab2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
